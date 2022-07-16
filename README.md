@@ -1,1 +1,1 @@
-# Task3_Perform_-ExploratoryDataAnalysis-_on_dataset_-samplestore-.
+Data Science Intern Task3-Perform ‘Exploratory Data Analysis’ on dataset ‘sample store’.As a Business Manager, try to find out the weak area where you can work to make profit.Tool(s) Used - Python (Jupyter Notebook).You can also used tools such as Tableau, PowerBI, etc
